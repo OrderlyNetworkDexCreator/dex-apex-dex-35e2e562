@@ -34,7 +34,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "",
   "VITE_SEO_THEME_COLOR": "#000000",
   "VITE_SEO_KEYWORDS": "",
-  "VITE_AVAILABLE_LANGUAGES": "en,tr",
+  "VITE_AVAILABLE_LANGUAGES": "en,zh,tc,es,de,fr,ru,it,pt,uk,pl,nl,ja,ko,vi,id,ar,fa,he",
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"chartBG\":\"#131519\",\"upColor\":\"#008676\",\"downColor\":\"#D92D6B\",\"pnlUpColor\":\"#00B49E\",\"pnlDownColor\":\"#FF447C\",\"pnlZeroColor\":\"#333948\",\"textColor\":\"#FFFFFF\",\"qtyTextColor\":\"#F4F7F9\",\"volumeUpColor\":\"#0C3E3A\",\"volumeDownColor\":\"#5A1E36\",\"closeIconColor\":\"rgba(255, 255, 255, 0.8)\"}",
