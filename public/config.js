@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "apex_dex",
   "VITE_ORDERLY_BROKER_NAME": "Apex DEX",
   "VITE_BROKER_EOA_ADDRESS": "0xb59d193f69218c1b5bade23b4d62ba47cfbbd522",
   "VITE_DISABLE_MAINNET": "false",
